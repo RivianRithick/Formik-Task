@@ -1,0 +1,7 @@
+#card-w{
+    box-shadow:   0 .125rem .25rem  rgb(175, 175, 175);
+    cursor: pointer;
+}
+#card-w:hover{
+    box-shadow:  0 .2rem 0.500rem  rgb(45, 45, 44);
+}
